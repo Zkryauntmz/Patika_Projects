@@ -47,6 +47,6 @@ O(n^2) yani O(6^2) = O(36)'dır.
 - O(nLogN)
 
 
-# Proje 2 - B Tree
+# Proje 3 - B Tree
 
 ![BTree](btree.png)
