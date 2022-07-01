@@ -1,5 +1,5 @@
 # Patika_Projects
 
 
-QUESTIN 1 
+QUESTION 1 
 ------------------------------
